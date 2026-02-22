@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="vid" href="/nowrun.mp4" />
       </Head>
 
       <main>
