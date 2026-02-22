@@ -16,6 +16,9 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <video width="320" height="240" controls>
+          <source src="nowrun.mp4" type="video/mp4">
+        </video>
       </main>
 
       <Footer />
